@@ -30,32 +30,42 @@ The Student Dashboard is a web-based application that helps students manage thei
 1.Install Node.js and MongoDB
 
 2.Clone the repository:
+
 git clone https://github.com/your-username/student-dashboard.git
+
 cd student-dashboard
 
 ###Backend Setup:
+
 1.Navigate to the backend folder:
+
 cd backend
 
 2.Install dependencies:
+
 npm install
 
 3.Create a .env file and configure environment variables (MongoDB URI, JWT secret, etc.).
 
 4.Start the backend server:
+
 npm run dev
 
 ###Frontend Setup:
 1.Navigate to the frontend folder:
+
 cd Frontend
 
 2.Install dependencies:
+
 npm install
 
 3.Start the frontend application:
+
 npm start
 
 ## Project Structure:
+
 Student-Dashboard/
 ├── backend/
 │   ├── config/
@@ -82,4 +92,5 @@ Student-Dashboard/
 └── README.md
 
 ## Contributing:
+
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
