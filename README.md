@@ -52,7 +52,8 @@ npm install
 
 npm run dev
 
-###Frontend Setup:
+### Frontend Setup:
+
 1.Navigate to the frontend folder:
 
 cd Frontend
