@@ -36,7 +36,7 @@ git clone https://github.com/your-username/student-dashboard.git
 cd student-dashboard
 
 
-##Backend Setup:
+### Backend Setup:
 
 1.Navigate to the backend folder:
 
