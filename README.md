@@ -68,54 +68,32 @@ npm start
 
 ## Project Structure:
 
+```
 Student-Dashboard/
-
-
 ├── backend/
-
 │   ├── config/
-
 │   ├── controllers/
-
 │   ├── middleware/
-
 │   ├── models/
-
 │   ├── routes/
-
 │   ├── utils/
-
 │   ├── .env
-
 │   ├── server.js
-
 │   └── package.json
-
 ├── frontend/
-
 │   ├── public/
-
 │   ├── src/
-
 │   │   ├── components/
-
 │   │   ├── pages/
-
 │   │   ├── redux/
-
 │   │   ├── App.js
-
 │   │   ├── index.js
-
 │   │   ├── styles/
-
 │   │   └── assets/
-
 │   ├── .env
-
 │   └── package.json
-
 └── README.md
+```
 
 ## Contributing:
 
