@@ -16,14 +16,19 @@ The Student Dashboard is a web-based application that helps students manage thei
 
 ## Tech Stack:
 1.Frontend: React.js, Tailwind CSS
+
 2.Backend: Node.js, Express.js
+
 3.Database: MongoDB
+
 4.Authentication: JWT (JSON Web Token)
+
 5.Deployment: Vercel (Frontend), Render (Backend)
 
 ## Installation & Setup:
 ### Prerequisites:
 1.Install Node.js and MongoDB
+
 2.Clone the repository:
 git clone https://github.com/your-username/student-dashboard.git
 cd student-dashboard
@@ -31,17 +36,22 @@ cd student-dashboard
 ###Backend Setup:
 1.Navigate to the backend folder:
 cd backend
+
 2.Install dependencies:
 npm install
+
 3.Create a .env file and configure environment variables (MongoDB URI, JWT secret, etc.).
+
 4.Start the backend server:
 npm run dev
 
 ###Frontend Setup:
 1.Navigate to the frontend folder:
 cd Frontend
+
 2.Install dependencies:
 npm install
+
 3.Start the frontend application:
 npm start
 
