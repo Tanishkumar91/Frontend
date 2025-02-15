@@ -4,7 +4,7 @@
 The Student Dashboard is a web-based application that helps students manage their courses, track progress, and access learning materials in one place. It provides an intuitive interface for students to view enrolled courses, assignments, grades, and notifications.
 
 ## Features:
-*📚 Course Management - View enrolled courses, course details, and progress tracking.
+.📚 Course Management - View enrolled courses, course details, and progress tracking.
 *📝 Assignments & Submissions - Submit assignments and track deadlines.
 *📊 Grades Overview - View and analyze grades for completed courses.
 *🔔 Notifications - Stay updated with important announcements and deadlines.
